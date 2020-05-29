@@ -20,7 +20,27 @@
   	<dependency>
   		<groupId>io.github.bonigarcia</groupId>
   		<artifactId>webdrivermanager</artifactId>
-  		<version>3.0.0</version>
+  		<version>3.6.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.junit.jupiter</groupId>
+  		<artifactId>junit-jupiter-api</artifactId>
+  		<version>RELEASE</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-chrome-driver</artifactId>
+  		<version>4.0.0-alpha-2</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-support</artifactId>
+  		<version>4.0.0-alpha-2</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-server</artifactId>
+  		<version>4.0.0-alpha-2</version>
   	</dependency>
   </dependencies>
 </project>
